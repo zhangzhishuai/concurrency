@@ -25,6 +25,11 @@ public class BubbleSort {
         System.out.println("BubbleSort.main arrNew: " + Arrays.toString(arrNew));
     }
 
+    /**
+     * 冒泡排序具体实现方法
+     * @param arr
+     * @return
+     */
     private static int[] bubbleSort(int[] arr) {
         int len = arr.length;
         for (int i = 0; i < len - 1; i++) {
