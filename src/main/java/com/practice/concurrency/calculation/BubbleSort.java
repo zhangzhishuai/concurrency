@@ -1,4 +1,4 @@
-package com.practice.concurrency.serializable.calculation;
+package com.practice.concurrency.calculation;
 
 import java.util.Arrays;
 

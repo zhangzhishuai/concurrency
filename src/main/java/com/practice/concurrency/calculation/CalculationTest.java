@@ -1,6 +1,4 @@
-package com.practice.concurrency.serializable.calculation;
-
-import ch.qos.logback.core.net.SyslogOutputStream;
+package com.practice.concurrency.calculation;
 
 /**
  * calculation
